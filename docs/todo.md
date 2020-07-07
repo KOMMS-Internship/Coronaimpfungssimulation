@@ -7,7 +7,7 @@ ToDo-Liste:
 * [ ] Variable für Geimpfte definieren
 * [ ] Details zur Imfpung festlegen (passiv oder aktiv)
 * [ ] definieren, was wir als Effekt verstehen
-* [ ] 
+* [ ] test
 * [ ] alles in Python implimentieren
 
 
