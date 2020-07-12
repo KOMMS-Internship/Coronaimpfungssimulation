@@ -1,10 +1,10 @@
 ToDo-Liste:
 
-* [ ] SIR-Silmutation erstellen/kopieren
-* [ ] SIR-Simulation impimentieren
+* [x] SIR-Silmutation erstellen/kopieren
+* [x] SIR-Simulation impimentieren
 * [ ] delta definieren
 * [ ] R aus Beta berechnen
-* [ ] Variable für Geimpfte definieren
+* [x] Variable für Geimpfte definieren
 * [ ] Details zur Imfpung festlegen (passiv oder aktiv)
 * [ ] definieren, was wir als Effekt verstehen
 * [ ] test
