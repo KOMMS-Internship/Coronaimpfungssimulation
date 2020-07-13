@@ -2,13 +2,13 @@ ToDo-Liste:
 
 * [x] SIR-Silmutation erstellen/kopieren
 * [x] SIR-Simulation impimentieren
-* [ ] delta definieren
-* [ ] R aus Beta berechnen
+* [x] delta definieren
+* [x] R aus Beta berechnen
 * [x] Variable für Geimpfte definieren
 * [ ] Details zur Imfpung festlegen (passiv oder aktiv)
 * [ ] definieren, was wir als Effekt verstehen
 * [ ] test
-* [ ] alles in Python implimentieren
+* [x] alles in Python implimentieren
 
 
 Not ToDo- Liste:
