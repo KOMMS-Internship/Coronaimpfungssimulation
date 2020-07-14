@@ -2,5 +2,10 @@
  - Herdenimmunität bedeutet, dass mindestens 80% der Menschen immun
  - nur 67% der Deutschen erklären sich bereit, sich gegen Corona zu impfen
  - 50 bis 70 Prozent müssten immun sein (durch Impfungen oder nach Krankheit)
- - wenn pro Tag 2% der susceptable geimpft werden, entsteht nach 69 Tagen eine Herdenimmunität, gegen Ende sind 80% aller Menschen geimpft
- - wenn pro Tag 1% der susceptable geimpft werden, entsteht nach 60 Tagen eine Herdenimmunität
+ - in unserer Simulation beginnen die Impfungen erst, wenn mindestens 0,25% aller Menschen zu den recovered gehören
+ - wenn pro Tag 2% der susceptable geimpft werden, entsteht nach 69 Tagen eine Herdenimmunität, gegen Ende sind 80% aller Menschen geimpft, davon nsind die meisten vaccinated
+ - wenn pro Tag 1% der susceptable geimpft werden, entsteht nach 59 Tagen eine Herdenimmunität, davon sind die meisten recovered
+ - wenn pro Tag 1,5% der susceptable geimpft werden, entsteht nach 65 Tagen eine Herdenimmunität, davon sind mehr vaccinated als recovered
+ - wenn pro Tag 1,3% der susceptable geimpft werden, entsteht nach 62 Tagen eine Herdenimmunität, davon sind etwas mehr vaccinated als recovered
+ - wenn pro Tag 1,2% der susceptable geimpft werden, entsteht nach 61 Tagen eine Herdenimmunität, davon sind wenig mehr vaccinated als recovered
+ - wenn pro Tag 1,1% der susceptable geimpft werden, entsteht nach 60 Tagen eine Herdenimmunität, davon sind wenig mehr recovered als vacccinated
