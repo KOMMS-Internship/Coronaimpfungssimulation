@@ -5,8 +5,8 @@ ToDo-Liste:
 * [x] delta definieren
 * [x] R aus Beta berechnen
 * [x] Variable für Geimpfte definieren
-* [ ] Details zur Imfpung festlegen (passiv oder aktiv)
-* [ ] definieren, was wir als Effekt verstehen
+* [x] Details zur Imfpung festlegen (passiv oder aktiv)
+* [ ] definieren, was wir als Effekt verstehen(Herdenimmunität, Anteil der Herdenimmunität von recovered und vaccinated)
 * [ ] test
 * [x] alles in Python implimentieren
 
